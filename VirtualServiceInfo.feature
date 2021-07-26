@@ -1,4 +1,9 @@
 Feature: Display Virtual Service information
+    This is a new feature proposal for the UUA Services Plugin, which is part of
+    the UUA WordPress Theme for Congregations | Documentation for the UUA WordPress Theme for Congregations.
+    See https://www.uua.org/communications/websites/wordpress-theme/documentation/technical/services-plugin
+    In the text below, the "UUA Featured Upcoming Service Widget" is referred to as "FUSW".
+    This is a specification file in the gherkin language; see https://cucumber.io/docs/gherkin/reference/
 
     Scenario Outline: Single service
         Given Virtual Service URL preview duration of 30 minutes
